@@ -14,7 +14,7 @@ How To Use :
     node index.js
     if You are using Nodmon
     Type nodemon index.js
-    NodeMon help to not restart server each time when make changes on the file it detects all the changes as restarts the 
+    NodeMon help to restart server each time when make changes on the file it detects all the changes as restarts the 
     server automatically when any changes occured.
     
 (3) Guide to Register User 
